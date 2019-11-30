@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 344}
   m_MaxSize: {x: 4004, y: 8044}
   vertical: 1
-  controlID: 81
+  controlID: 59
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -515,9 +515,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -40.36794, y: 44.2726, z: 9.377037}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -40.36794, y: 44.2726, z: 9.377037}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -550,9 +550,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 10
+    m_Target: 201.06033
     speed: 2
-    m_Value: 10
+    m_Value: 201.06033
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -633,9 +633,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 44faffff
-      m_LastClickedID: -1468
-      m_ExpandedIDs: 96faffff6efbffff
+      m_SelectedIDs: b2310000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 6efbffff24320000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -698,20 +698,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Resources
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets
+  - Assets/Resources
   m_LastFoldersGridSize: 67
-  m_LastProjectPath: C:\Users\chart\Documents\GitHub\BurgerKingProject
+  m_LastProjectPath: C:\Users\chart\Documents\GitHub\BurgerKingGit\BurgerKingProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5e2e0000
-    m_LastClickedID: 11870
-    m_ExpandedIDs: 000000005e2e000000ca9a3b
+    m_SelectedIDs: a6310000
+    m_LastClickedID: 12710
+    m_ExpandedIDs: 000000005e2e0000b433000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -766,7 +766,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300000000000004390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -832,4 +832,4 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 96
